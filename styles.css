@@ -6,7 +6,8 @@ body{
     background-size: cover;
    padding: 20px;
    margin: auto; 
-   text-align: center;  
+   text-align: center; 
+   border: 0px; 
 }
 span{
     color: rgb(209, 191, 29);
