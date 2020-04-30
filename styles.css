@@ -1,5 +1,18 @@
-nav{
-    list-style-type:none;
-    margin: 0px;
-    padding: 0px;
+body{
+    color: lavender;
+   padding: 20px;
+   margin: auto; 
+   text-align: center;  
+}
+.container1{
+  
+   background-image: url(coder2.jpeg);
+   background-color: gainsboro;
+   display: flex;
+
+}
+.container2{
+    background-attachment: fixed;
+    background-image: url(coder1.jpeg);
+    display: flex;
 }
