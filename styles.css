@@ -4,7 +4,7 @@ body{
     background-image: url(coder1.jpeg);
     background-repeat:no-repeat;
     background-size: cover;
-   padding: 10px;
+   padding: 20px;
    margin: auto; 
    text-align: center;  
 }
@@ -12,7 +12,7 @@ span{
     color: khaki;
 }
 nav{
-    display:block;
+    display: inline-flex;
 
 }
 /* .container1{
