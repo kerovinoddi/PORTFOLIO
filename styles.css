@@ -1,7 +1,19 @@
 body{
+    font-size: 3vmax;
+    color: ghostwhite;
+    background-image: url(coder1.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
    padding: 20px;
    margin: auto; 
    text-align: center;  
+}
+span{
+    color: khaki;
+}
+nav{
+    display:block;
+
 }
 /* .container1{
   
