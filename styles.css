@@ -1,10 +1,9 @@
 body{
-    color: lavender;
    padding: 20px;
    margin: auto; 
    text-align: center;  
 }
-.container1{
+/* .container1{
   
    background-image: url(coder2.jpeg);
    background-color: gainsboro;
@@ -15,4 +14,4 @@ body{
     background-attachment: fixed;
     background-image: url(coder1.jpeg);
     display: flex;
-}
+} */
