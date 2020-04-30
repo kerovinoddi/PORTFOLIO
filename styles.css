@@ -1,5 +1,5 @@
 body{
-    font-size: 3vmax;
+    font-size: 4vmax;
     color: ghostwhite;
     background-image: url(coder1.jpeg);
     background-repeat:no-repeat;
@@ -9,7 +9,7 @@ body{
    text-align: center;  
 }
 span{
-    color: khaki;
+    color: rgb(209, 191, 29);
 }
 nav{
     display: inline-flex;
